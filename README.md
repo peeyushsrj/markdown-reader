@@ -6,9 +6,13 @@ Use cases:-
 - Blog Hosting
 - Document Aggregator
 
-
-Runs on flask
+###Prerequisite
 ```
-env FLASK_APP=server.py flask run
+pip install flask --user
+```
+
+###Run Instruction
+```
+flask run
 ```
 
