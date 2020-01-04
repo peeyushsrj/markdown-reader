@@ -3,16 +3,20 @@
 Based on python jinja templating engine
 
 Use cases:-
+
 - Blog Hosting
 - Document Aggregator
 
-###Prerequisite
+### Prerequisite
+
 ```
 pip install flask --user
 ```
 
-###Run Instruction
+### Usage 
+
 ```
 flask run
 ```
 
+and open [http://localhost:5000/]() on your browser.
